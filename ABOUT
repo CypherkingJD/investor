@@ -1,0 +1,42 @@
+[1] https://medium.com/swlh/investing-with-python-ea5da7a4a5c4
+
+"There are two schools of thought on investing — Technical and Fundamental analysis — and each uses a variety of metrics to assess whether to invest in a stock." [1]
+
+"Technical analysis uses past price and trading history to assess whether a stock is a sound investment." [1]
+
+"The technical analyst believes that the stock’s price incorporates all publicly available information." [1]
+
+"Therefore, historical trading activity and price movements are key indicators for future movements." [1]
+
+"Fundamental analysis ... eschews past trading history and focuses on financial and economic variables that affect a stock’s price." [1]
+
+"Fundamental analysts would counter that past price movements and activity, dictated by supply and demand for a security, aren’t necessarily indicative of future performance." [1]
+
+"Yet there were red flags along the way— questionable accounting methods (Mark-to-Market), and management’s questionable conduct — and focusing on these aspects would have given a more nuanced picture of the stock’s future movements." [1]
+
+"The two camps can be unified on a practical level." [1]
+
+Technical analyst:
+Buy:
+* "short-term moving average is above its long term moving average" [1]
+* "Short-term is usually defined as a 50-day moving average" [1]
+* "long-term is usually defined as 200-day moving average" [1]
+
+Sell:
+* "short-term average falls below the long-term average"
+
+Good signs to fundamental analysts:
+* "posted strong financial growth over the past few years" [1]
+* "strong cash flow and balance sheet" [1]
+* "continue its growth due to management successfully executing on its business strategy" [1]
+* financial ratios:
+- Earnings-Per-Share (EPS) ==  “a company’s net profit divided by the number of common shares it has outstanding.” [1]
+- Price-to-Earnings (PE) == "a company’s share price to its earnings per share” [1]
+- Current Ratio == "a company’s ability to pay its short term debt — usually debt that is due within a year." [1]
+- Debt-to-Equity (DE) == "measures a company’s liquidity (how well a company can pay its debts)" [1]
+- "the economy at large" [1] --> See https://www.bing.com/videos/riverview/relatedvideo?q=medium+python+investing+the+ecomony+at+large&mid=1C08CDD3002497C717B21C08CDD3002497C717B2&FORM=VIRE
+
+[2] https://medium.com/@luo9137/value-investing-in-python-6a9dc87fe89d
+[3] https://medium.com/@everything_python/unleashing-pythons-potential-in-finance-from-data-analysis-to-algorithmic-trading-9e3dd623cb0f
+[4] https://medium.com/analytics-vidhya/factor-investing-with-python-1-data-8057493c09a7
+[5] https://nicobesser.medium.com/python-for-finance-portfolio-optimization-and-the-value-of-diversifying-99ef8e5cfbdc
